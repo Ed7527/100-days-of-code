@@ -30,7 +30,8 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 1 07-June-17
+### Day 1 
+07-June-17
 
 ***Today's progress***: 
 -Learnt how to comment out lines of code using Githubs markdown
