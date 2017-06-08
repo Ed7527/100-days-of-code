@@ -43,3 +43,18 @@ The other thing I tried but did not succeed at was creating a branch of Cash Buc
 **Link(s) to work**
 1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
 2. [Small project to experiment with overriding the back button] (https://github.com/Ed7527/Modifybackbutton)
+
+### Day 2 
+08-June-17
+
+***Today's progress***: 
+- Updated Cash Buckets app to display warnig before user deletes bucket
+- Added menu to Cash Buckets
+
+**Thoughts** 
+Adding the warning was very easy.
+Adding the menu wasn't hard but Android Studio doesn't seem to autocomplete onCreateOptionsMenu() or onOptionsItemSelected(). Having minor spelling mistakes are just as good as typing something completely different.  Once recognised it was easy to fix.
+I still need to find a good way to share some of the project publicly on Github while at the same keeping certain files private.
+
+**Link(s) to work**
+1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
