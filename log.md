@@ -58,3 +58,15 @@ I still need to find a good way to share some of the project publicly on Github 
 
 **Link(s) to work**
 1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
+
+### Day 3 
+09-June-17
+
+***Today's progress***: 
+- Added reset function to Cash Buckets
+
+**Thoughts** 
+I need to clean up my code to make it more readable.  It was one of those days where things did not go as smoothly as I would expect.  I seemed to have difficulty executing a function that isn't that complicated.  I feel like I made very minimal progress today.
+
+**Link(s) to work**
+1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
