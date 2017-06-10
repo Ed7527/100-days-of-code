@@ -70,3 +70,18 @@ I need to clean up my code to make it more readable.  It was one of those days w
 
 **Link(s) to work**
 1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
+
+### Day 4 
+10-June-17
+
+***Today's progress***: 
+- Created public repository for CashBuckets
+
+**Thoughts** 
+I though that committing a forked repository would count on Github's contribution graph.  Apparently not, yesterday I did not commit anything according to Github.
+
+I created a new project in Android Studio and copied my CashBuckets code across.  Slightly nervous about showing my code to the world (or more accurately one or two people), my code works but it could be a lot cleaner.
+
+**Link(s) to work**
+1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
+2. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
