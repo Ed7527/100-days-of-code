@@ -85,3 +85,15 @@ I created a new project in Android Studio and copied my CashBuckets code across.
 **Link(s) to work**
 1. [Cash Buckets on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
 2. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
+
+### Day 5
+11-June-17
+
+***Today's progress***: 
+- Small experiment to test animation
+
+**Thoughts** 
+I want to make an animation that fills a shape with colour, from the bottom to the top.  I feel like this should be an easy task but so far I have not found out how to do it.  Amount of progress has been dissapointing today.  I'll come back to it another time.
+
+**Link(s) to work**
+1. [Animation Experiment] (https://github.com/Ed7527/AnimationExperiment)
