@@ -97,3 +97,16 @@ I want to make an animation that fills a shape with colour, from the bottom to t
 
 **Link(s) to work**
 1. [Animation Experiment] (https://github.com/Ed7527/AnimationExperiment)
+
+### Day 6
+12-June-17
+
+***Today's progress***: 
+- Changed a couple of EditText fields in CashBuckets to display their values
+- On switiching to the edit bucket activity the cursor is now in the bucket name field
+
+**Thoughts** 
+My Cash Buckets app is still nowhere near how I imagine the finished product.  But it is getting incrementally better.  Today I worked on a couple of relatively easy problems.
+
+**Link(s) to work**
+1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
