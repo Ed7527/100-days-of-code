@@ -110,3 +110,15 @@ My Cash Buckets app is still nowhere near how I imagine the finished product.  B
 
 **Link(s) to work**
 1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
+
+### Day 7
+12-June-17
+
+***Today's progress***: 
+- Created Spinner for the 
+
+**Thoughts** 
+It's been a little while since dealing with ArrayAdapters. Forgot how to work with them ,not too hard though.  It took longer than I expected but I've got most of the results I wanted, next time I'll make them look a bit better.
+
+**Link(s) to work**
+1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
