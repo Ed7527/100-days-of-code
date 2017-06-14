@@ -112,13 +112,27 @@ My Cash Buckets app is still nowhere near how I imagine the finished product.  B
 1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
 
 ### Day 7
-12-June-17
+13-June-17
 
 ***Today's progress***: 
-- Created Spinner for the 
+- Created Spinner for the Cash Buckets app
 
 **Thoughts** 
 It's been a little while since dealing with ArrayAdapters. Forgot how to work with them ,not too hard though.  It took longer than I expected but I've got most of the results I wanted, next time I'll make them look a bit better.
 
 **Link(s) to work**
 1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
+
+https://github.com/Ed7527/IAmListening
+
+### Day 8
+14-June-17
+
+***Today's progress***: 
+- Started new project called I Am Listening
+
+**Thoughts** 
+I tried to name this app "I'mListening", I knew that it's not a good idea to name files or directory's with punctuation in them.  I tried to anyway thinking that Android Studio would tell me if it was going to cause any problems.  I wrote a bit, then tried to run it on the emulator.  Wouldn't work.  I deleted the project and started again, as a result my progress today is making a few buttons that display Toasts.
+
+**Link(s) to work**
+1. [I'm Listenening repository] (https://github.com/Ed7527/IAmListening)
