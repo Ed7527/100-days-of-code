@@ -136,3 +136,15 @@ I tried to name this app "I'mListening", I knew that it's not a good idea to nam
 
 **Link(s) to work**
 1. [I'm Listenening repository] (https://github.com/Ed7527/IAmListening)
+
+### Day 9
+15-June-17
+
+***Today's progress***: 
+- Updated Cash to version 1.1.2 Buckets previously created will display the name and max cash in the editTexts
+
+**Thoughts** 
+Cash Buckets is incrementally better.  Would have like to do a lot more to it, but don't have a lot of time today.  Also I'd like to get it out to more people so that I can get more feedback on how to make it better.  Paying for advertising doesn't seem like a great idea considering it's a free app with no ads.
+
+**Link(s) to work**
+1. [Cash Buckets 1.1.2 on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
