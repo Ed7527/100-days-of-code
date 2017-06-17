@@ -141,10 +141,22 @@ I tried to name this app "I'mListening", I knew that it's not a good idea to nam
 15-June-17
 
 ***Today's progress***: 
-- Updated Cash to version 1.1.2 Buckets previously created will display the name and max cash in the editTexts
+- Updated Cash Buckets to version 1.1.2 Buckets previously created will display the name and max cash in the editTexts
 
 **Thoughts** 
 Cash Buckets is incrementally better.  Would have like to do a lot more to it, but don't have a lot of time today.  Also I'd like to get it out to more people so that I can get more feedback on how to make it better.  Paying for advertising doesn't seem like a great idea considering it's a free app with no ads.
 
 **Link(s) to work**
 1. [Cash Buckets 1.1.2 on Google Play] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
+
+### Day 10
+17-June-17
+
+***Today's progress***: 
+- Added class specific methods, Cash Buckets will display a random quote on the edit bucket screen
+
+**Thoughts** 
+I missed a day of coding yesterday, was sick.  Still not 100% so I worked on something that's relatively easy today.  Implementing a class method that returns a random quote depending on which class it is.  Some of the code is repeated from each class but it is only two lines andI don't think it would make sense to create another method.
+
+**Link(s) to work**
+1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
