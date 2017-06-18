@@ -160,3 +160,15 @@ I missed a day of coding yesterday, was sick.  Still not 100% so I worked on som
 
 **Link(s) to work**
 1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
+
+### Day 11
+18-June-17
+
+***Today's progress***: 
+- Added random quotes to the edit bucket screen in the beta version
+
+**Thoughts** 
+Fairly simple stuff, tomorrow I'll have to work on something a little more challenging.  Only minor hurdle with today's coding was to remember that including a " in a String requires \". ie. String stringName = "\"I got 99 problems\"";
+
+**Link(s) to work**
+1. [Cash Buckets beta] (https://play.google.com/apps/testing/com.edwardtorpy.cashbuckets)
