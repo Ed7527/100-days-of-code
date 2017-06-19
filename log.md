@@ -172,3 +172,15 @@ Fairly simple stuff, tomorrow I'll have to work on something a little more chall
 
 **Link(s) to work**
 1. [Cash Buckets beta] (https://play.google.com/apps/testing/com.edwardtorpy.cashbuckets)
+
+### Day 12
+19-June-17
+
+***Today's progress***: 
+- Added menu and the reset feature in Cash Buckets now works
+
+**Thoughts** 
+My code is starting to get unruly, it works but keeping track of what goes where is getting harder.  I'm also sure that there is plenty of duplicate code in there too.  I'll work on that tomorrow.
+
+**Link(s) to work**
+1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
