@@ -184,3 +184,15 @@ My code is starting to get unruly, it works but keeping track of what goes where
 
 **Link(s) to work**
 1. [Cash Buckets public repository] (https://github.com/Ed7527/CashBucketsPublic)
+
+### Day 13
+20-June-17
+
+***Today's progress***: 
+- Tried working with JavaScript
+
+**Thoughts** 
+Gorillaz and Jaguar inserted a job application into the Gorillaz app.  One of the gifs in the challenge had a Github account in a frame.  I followed it, surprisingly I was one of the first to fork the repository.  Even at the time of this entry there are only 7 followers and it's been forked 5 times.  The branches contain broken javascript, so I tried to fix it.  Didn't get far, but found the function that's missing some code.
+
+**Link(s) to work**
+1. [Forked jaguar repository] (https://github.com/Ed7527/J4GU4R)
