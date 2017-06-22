@@ -196,3 +196,29 @@ Gorillaz and Jaguar inserted a job application into the Gorillaz app.  One of th
 
 **Link(s) to work**
 1. [Forked jaguar repository] (https://github.com/Ed7527/J4GU4R)
+
+### Day 14
+21-June-17
+
+***Today's progress***: 
+- Tried getting that Gorillaz file to work again
+
+**Thoughts** 
+I have a rough idea of what needs to be done to get it to work.  There's a function that needs a couple of descrambling functions added.  I'm still surprised that there are so few people who have forked the repository.
+
+**Link(s) to work**
+1. [Forked jaguar repository] (https://github.com/Ed7527/J4GU4R)
+
+### Day 15
+22-June-17
+
+***Today's progress***: 
+- Updated production version of Cash Buckets to 1.3.0
+- Updated beta version of Cash Buckets to 1.4.0, now has a menu that resets the app
+
+**Thoughts** 
+I should tidy up my code but I have no trouble working out which functions do what.  It could be ordered slightly better but I'm not sure that it's that bad.  It's just more fun to right features rather than tidy up.
+
+**Link(s) to work**
+1. [Cash Buckets beta] (https://play.google.com/apps/testing/com.edwardtorpy.cashbuckets)
+2. [Cash Buckets] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
