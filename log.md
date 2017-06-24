@@ -236,4 +236,13 @@ Anyway, tried to get the square to "fill up" so that at 50% the top half would b
 **Link(s) to work**
 1. [Animation experiment] (https://github.com/Ed7527/AnimationExperiment)
 
-https://github.com/Ed7527/AnimationExperiment
+### Day 17
+24-June-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
