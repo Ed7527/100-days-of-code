@@ -240,9 +240,10 @@ Anyway, tried to get the square to "fill up" so that at 50% the top half would b
 24-June-17
 
 ***Today's progress***: 
-- 
+- Played around a little with Kotlin in Android Studio
 
 **Thoughts** 
+So far I'm not liking Kotlin.  I haven't found that it's easier to work with compared to Java.  Maybe that's because I'm used to working with Java.
 
 **Link(s) to work**
-1. 
+1. https://github.com/Ed7527/Kotlin
