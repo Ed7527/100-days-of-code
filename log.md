@@ -222,3 +222,18 @@ I should tidy up my code but I have no trouble working out which functions do wh
 **Link(s) to work**
 1. [Cash Buckets beta] (https://play.google.com/apps/testing/com.edwardtorpy.cashbuckets)
 2. [Cash Buckets] (https://play.google.com/store/apps/details?id=com.edwardtorpy.cashbuckets&hl=en)
+
+### Day 16
+23-June-17
+
+***Today's progress***: 
+- Found ways that don't work
+
+**Thoughts** 
+Just accidently deleted this entry.  No undo button when you're entering it straigh onto the website.
+Anyway, tried to get the square to "fill up" so that at 50% the top half would be a light shade.  I haven't found an easy way to do that in Android Studio yet
+
+**Link(s) to work**
+1. [Animation experiment] (https://github.com/Ed7527/AnimationExperiment)
+
+https://github.com/Ed7527/AnimationExperiment
