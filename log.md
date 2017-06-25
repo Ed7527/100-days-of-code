@@ -247,3 +247,15 @@ So far I'm not liking Kotlin.  I haven't found that it's easier to work with com
 
 **Link(s) to work**
 1. https://github.com/Ed7527/Kotlin
+
+### Day 18
+25-June-17
+
+***Today's progress***: 
+- Fixed a very basic function and submitted pull request on Github
+
+**Thoughts** 
+Still can't figure out how to solve the Gorillaz javascript puzzle.  I've got a rough idea of what I need to do but it's a little beyond my capabilities for now
+
+**Link(s) to work**
+1. https://github.com/Ed7527/J4GU4R/tree/sensations
