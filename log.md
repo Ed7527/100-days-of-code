@@ -259,3 +259,99 @@ Still can't figure out how to solve the Gorillaz javascript puzzle.  I've got a 
 
 **Link(s) to work**
 1. https://github.com/Ed7527/J4GU4R/tree/sensations
+
+### Day 19
+26-June-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 20
+27-June-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 21
+28-June-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 22
+29-June-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 23
+30-June-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 24
+01-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 25
+02-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
+
+### Day 26
+03-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+ToDo - Update this entry with what I did...
+
+**Link(s) to work**
+1. 
