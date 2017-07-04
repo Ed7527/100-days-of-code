@@ -348,10 +348,22 @@ ToDo - Update this entry with what I did...
 03-July-17
 
 ***Today's progress***: 
-- 
+- Started retro phone project
 
 **Thoughts** 
-ToDo - Update this entry with what I did...
+- I had already filled this entry in, somehow I must have inadvertantly deleted it.
 
 **Link(s) to work**
-1. 
+1. https://github.com/Ed7527/Arduino-retro-phone
+
+### Day 27
+04-July-17
+
+***Today's progress***: 
+- Made a small 1kHz test tone sketch with ARduino
+
+**Thoughts** 
+- It's a square wave, would have preferred a sine wave.  Doesn't seem to be an easy way to do it on Arduino.
+
+**Link(s) to work**
+1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/testTone.ino
