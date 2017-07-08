@@ -367,3 +367,15 @@ ToDo - Update this entry with what I did...
 
 **Link(s) to work**
 1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/testTone.ino
+
+### Day 31
+08-July-17
+
+***Today's progress***: 
+- Used an H-Bridge to get a 9V peak to peak
+
+**Thoughts** 
+- I'm using the delay() command for pauses.  When I put the final prject together it will need to be done with the millis() command.
+
+**Link(s) to work**
+1. 
