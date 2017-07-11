@@ -379,3 +379,21 @@ ToDo - Update this entry with what I did...
 
 **Link(s) to work**
 1. 
+
+Day 32
+09-July-17
+Minor refactoring
+
+10-July-17 - missed day
+
+### Day 33
+11-July-17
+
+***Today's progress***: 
+- Flashed an LED using the rotary dial
+
+**Thoughts** 
+- The sketch today is pretty much the most basic Arduino sketch you can do.  If(input) turn on LED, else don't.  The difficulty came with finding out why the elctrical circuit wasn't doing what I expected.  Once I cleaned the contacts on the dial, it worked.
+
+**Link(s) to work**
+1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/diallerDecoder.ino
