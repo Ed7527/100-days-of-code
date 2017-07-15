@@ -397,3 +397,24 @@ Minor refactoring
 
 **Link(s) to work**
 1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/diallerDecoder.ino
+
+### Day 34
+12-July-17
+
+### Day 35
+13-July-17
+
+### Day 36
+14-July-17
+
+### Day 37
+15-July-17
+
+***Today's progress***: 
+- Dial decoder now mostly works
+
+**Thoughts** 
+- The decoder is very close to working, sometimes it shows numbers higher than it should. Could either be the mechanical contaacts or I need to work on the timing
+
+**Link(s) to work**
+1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/diallerDecoder.ino
