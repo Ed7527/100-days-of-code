@@ -417,4 +417,4 @@ Minor refactoring
 - The decoder is very close to working, sometimes it shows numbers higher than it should. Could either be the mechanical contaacts or I need to work on the timing
 
 **Link(s) to work**
-1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/diallerDecoder.ino
+1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/diallerDecoderLCD.ino
