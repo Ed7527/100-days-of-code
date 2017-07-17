@@ -418,3 +418,159 @@ Minor refactoring
 
 **Link(s) to work**
 1. https://github.com/Ed7527/Arduino-retro-phone/blob/master/diallerDecoderLCD.ino
+
+### Day 38
+16-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 39
+17-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 40
+18-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 42
+19-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 43
+20-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 44
+21-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 45
+22-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 46
+23-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 47
+24-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 48
+25-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 49
+26-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 50
+27-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
+
+### Day 51
+28-July-17
+
+***Today's progress***: 
+- 
+
+**Thoughts** 
+- 
+
+**Link(s) to work**
+1. 
