@@ -447,10 +447,10 @@ Minor refactoring
 18-July-17
 
 ***Today's progress***: 
-- 
+- Made a human music sketch for Arduino
 
 **Thoughts** 
-- 
+- Some days you just take it easy
 
 **Link(s) to work**
 1. 
