@@ -455,6 +455,18 @@ Minor refactoring
 **Link(s) to work**
 1. 
 
+### Day 41
+26-July-17
+
+***Today's progress***: 
+- Despite putting effort in I made zero progress
+
+**Thoughts** 
+- Trying to work out how to set up the bluetooth module
+
+**Link(s) to work**
+1. 
+
 ### Day 42
 19-July-17
 
